@@ -1,10 +1,6 @@
 # STARTER-lab03
 
-
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa03` above
-  to match the name of your repo, i. e., `jpa03-yourgithubid`, then delete
-  this TODO item.
+* TEST CHANGE
 
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
